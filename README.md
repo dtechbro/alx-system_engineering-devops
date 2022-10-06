@@ -1,1 +1,1 @@
-0x00 Shell Basics
+Learning shell basics
