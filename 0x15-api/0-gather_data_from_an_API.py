@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-import requests
+import urllib
 import sys
 
 if __name__ == '__main__':
